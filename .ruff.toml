@@ -1,0 +1,5 @@
+extend-exclude = [
+  "tests/.pytest_runtime",
+  "tests/tmpdir",
+  "pytest-cache-files-*",
+]
